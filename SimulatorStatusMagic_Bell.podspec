@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/GreedBell/SimulatorStatusMagic"
   s.license          = 'MIT'
   s.author           = { "Dave Verwer" => "dave.verwer@shinydevelopment.com", "Greg Spiers" => "greg.spiers@shinydevelopment.com" ,"Bell" => "bell@greedlab.com"}
-  s.source           = { :git => "https://github.com/shinydevelopment/SimulatorStatusMagic.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/GreedBell/SimulatorStatusMagic.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '6.0'
   s.requires_arc = true
